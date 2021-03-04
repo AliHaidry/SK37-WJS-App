@@ -1,2 +1,4 @@
 This project is based on the Modern JavaScript, Also covers the concept of ES6+ , fetch API. Also got registered 
 for openWeather API to get the access of their API.
+
+ERROR : 'http://127.0.0.1:5500' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
